@@ -1,0 +1,16 @@
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Interop.WMPLib.dll
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\AxInterop.WMPLib.dll
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac Man.vbproj.ResolveComReference.cache
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac Man.pdb
+D:\Pac_Man_du2150864272009\Pac Man\bin\Pac Man.exe
+D:\Pac_Man_du2150864272009\Pac Man\bin\Pac Man.pdb
+D:\Pac_Man_du2150864272009\Pac Man\bin\Pac Man.xml
+D:\Pac_Man_du2150864272009\Pac Man\bin\Interop.WMPLib.dll
+D:\Pac_Man_du2150864272009\Pac Man\bin\AxInterop.WMPLib.dll
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac_Man.MainForm.resources
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac_Man.OptionsForm.resources
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac_Man.SplashForm.resources
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac Man.vbproj.GenerateResource.Cache
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac Man.exe
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac Man.xml
+D:\Pac_Man_du2150864272009\Pac Man\obj\Debug\Pac_Man.Resources.resources
